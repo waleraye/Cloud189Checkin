@@ -8,6 +8,3 @@
 <br>
 <br>
 
-登录看的以下项目：
-> [Cloud189](https://github.com/Dawnnnnnn/Cloud189)
-> [cloud189](https://github.com/Aruelius/cloud189)
